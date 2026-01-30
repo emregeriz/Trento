@@ -1,0 +1,9 @@
+{
+  "name": "trento-website",
+  "version": "1.0.0",
+  "description": "Trento Website",
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000"
+  }
+}
